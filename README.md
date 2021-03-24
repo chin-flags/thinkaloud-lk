@@ -1,5 +1,5 @@
 ### Hi there 👋
-A skilled mobile applications crafter who loves to create things in a unique and creative way !
+A skilled web and mobile applications crafter who loves to create things in a unique and creative way !
 <!--
 - 🔭 I’m currently working on ...
       fixapp 
